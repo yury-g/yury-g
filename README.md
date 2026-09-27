@@ -31,6 +31,12 @@
 <td width="26%"><img src="assets/living-index.jpg" width="220" alt="Artist portraits and moving shapes from Living Index"></td>
 <td valign="middle"><strong><a href="https://yuryg.com/notes/living/">The Vibes Are People</a></strong><br>The people behind the moving shapes.</td>
 </tr>
+<tr>
+<td width="26%"><a href="https://yuryg.com"><img src="assets/yuryg-aquarium.jpg" width="220" alt="The little fish tank at YuryG.com"></a></td>
+<td valign="middle"><strong><a href="https://yuryg.com">YuryG.com</a></strong><br>My home on the web.</td>
+</tr>
+<tr>
+<td width="26%"><a href="https://www.newschool.edu/parsons/faculty/yuri-gitman/"><img src="assets/parsons-bio.jpg" width="220" alt="Yury’s Parsons faculty biography, with his portrait"></a></td>
+<td valign="middle"><strong><a href="https://www.newschool.edu/parsons/faculty/yuri-gitman/">Teaching at Parsons</a></strong><br>Adjunct Faculty at Parsons School of Design.</td>
+</tr>
 </table>
-
-<p><br><a href="https://yuryg.com">Find me at YuryG.com</a> · <a href="https://makingtoys.net/about/">Teaching at Parsons</a></p>
