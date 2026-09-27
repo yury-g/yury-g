@@ -4,8 +4,12 @@
 <h3>On the desk</h3>
 <table width="100%">
 <tr>
-<td width="26%"><img src="assets/pulsesensor-hardware.jpeg" width="220" alt="PulseSensor wired to a small yellow display board"></td>
-<td valign="middle"><strong><a href="https://github.com/WorldFamousElectronics/PulseSensorPlayground">PulseSensor</a></strong><br>Make something respond to your heartbeat.</td>
+<td width="26%"><a href="https://github.com/WorldFamousElectronics/PulseSensor_CYD"><img src="assets/pulsesensor-hardware.jpeg" width="220" alt="PulseSensor wired to a Cheap Yellow Display board"></a></td>
+<td valign="middle"><strong><a href="https://github.com/WorldFamousElectronics/PulseSensor_CYD">PulseSensor CYD</a></strong><br>Three wires. A small screen. Your heartbeat.</td>
+</tr>
+<tr>
+<td width="26%"><a href="https://github.com/WorldFamousElectronics/Tab5-Remote-Display"><img src="assets/tab5-hardware.jpg" width="220" alt="PulseSensor, StickS3 sender, Tab5 display, and removable battery laid out on a table"></a></td>
+<td valign="middle"><strong><a href="https://github.com/WorldFamousElectronics/Tab5-Remote-Display">Tab5 Remote Display</a></strong><br>A heartbeat sent across the room. Waveform and FFT on a touch screen.</td>
 </tr>
 <tr>
 <td width="26%"><img src="assets/usb-buddy.jpg" width="220" alt="A sage green USB Buddy cable organizer"></td>
