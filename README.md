@@ -4,8 +4,8 @@
 <h3>On the desk</h3>
 <table width="100%">
 <tr>
-<td width="26%"><a href="https://github.com/WorldFamousElectronics/PulseSensor_CYD"><img src="assets/pulsesensor-hardware.jpeg" width="220" alt="PulseSensor wired to a Cheap Yellow Display board"></a></td>
-<td valign="middle"><strong><a href="https://github.com/WorldFamousElectronics/PulseSensor_CYD">PulseSensor CYD</a></strong><br>Three wires. A small screen. Your heartbeat.</td>
+<td width="26%"><a href="https://pulsesensor.com"><img src="assets/pulsesensor-fingertip.jpg" width="220" alt="The original PulseSensor with its heart logo resting on a fingertip"></a></td>
+<td valign="middle"><strong><a href="https://pulsesensor.com">PulseSensor</a></strong><br>Make something respond to your heartbeat.</td>
 </tr>
 <tr>
 <td width="26%"><a href="https://github.com/WorldFamousElectronics/Tab5-Remote-Display"><img src="assets/tab5-hardware.jpg" width="220" alt="PulseSensor, StickS3 sender, Tab5 display, and removable battery laid out on a table"></a></td>
