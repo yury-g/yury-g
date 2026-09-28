@@ -32,8 +32,8 @@
 <td valign="middle"><strong><a href="https://upgrademaybe.com">Upgrade, Maybe</a></strong><br>A closer look at your Mac before you buy another.<br><br><a href="https://upgrademaybe.com"><img src="assets/champ-mark.png" width="100" alt="Champ trophy and checkered flags"></a></td>
 </tr>
 <tr>
-<td width="40%"><a href="https://yuryg.com/notes/living/"><img src="assets/living-index.jpg" width="340" alt="Artist portraits and moving shapes from Living Index"></a></td>
-<td valign="middle"><strong><a href="https://yuryg.com/notes/living/">The Vibes Are People</a></strong><br>The people behind the moving shapes.</td>
+<td width="40%"><a href="https://thevibesarepeople.com/"><img src="assets/living-index.jpg" width="340" alt="Artist portraits and moving shapes from Living Index"></a></td>
+<td valign="middle"><strong><a href="https://thevibesarepeople.com/">The Vibes Are People</a></strong><br>The people behind the moving shapes.</td>
 </tr>
 <tr>
 <td width="40%"><a href="https://yuryg.com"><img src="assets/yuryg-aquarium.gif" width="340" alt="A moving capture of the fish and coral at YuryG.com"></a></td>
