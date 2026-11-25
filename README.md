@@ -4,6 +4,10 @@
 <h3>On the desk</h3>
 <table width="100%">
 <tr>
+<td width="40%"><a href="https://github.com/yury-g/OpenToy-Coursework#readme"><img src="https://raw.githubusercontent.com/yury-g/OpenToy-Coursework/main/projects/animatronic-eyes/docs/images/feather-personalities.gif" width="340" alt="Curious, Dreamy and Cheeky: three simulated Feather faces with different blinks and glances"></a></td>
+<td valign="middle"><strong><a href="https://github.com/yury-g/OpenToy-Coursework#readme">OpenToy</a></strong><br>Expressive eyes, a flip camera, and folding screens. Open course work in progress, with firmware, hardware guides and animated design studies.</td>
+</tr>
+<tr>
 <td width="40%"><a href="https://pulsesensor.com"><img src="assets/pulsesensor-fingertip.jpg" width="340" alt="The original PulseSensor with its heart logo resting on a fingertip"></a></td>
 <td valign="middle"><strong><a href="https://pulsesensor.com">PulseSensor</a></strong><br>Make something respond to your heartbeat.</td>
 </tr>
